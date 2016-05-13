@@ -24,4 +24,4 @@ Report.pdf:
 Report file contains the information about how all the badnet file cases were countered and which techniques and functions are used for this purposes.The file also contains the description of the badnet files (ie what disturbance it is creating and how it is solved)
 
 
-![img](CN.jpg)
+![img](CN.JPG)
