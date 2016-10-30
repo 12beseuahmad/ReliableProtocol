@@ -3,9 +3,9 @@ Reliable Data Transfer Over Unreliable Data Transferring Protocol
 
 
 The project contains 3 files 
-MyClient.py
-MyServer.py
-Report.pdf
+1.MyClient.py
+2.MyServer.py
+3.Report.pdf
 
 
 Description of files:
