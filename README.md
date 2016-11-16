@@ -23,5 +23,7 @@ The Server Recieve the file from the client and save this file in the current wo
 Report.pdf:
 Report file contains the information about how all the badnet file cases were countered and which techniques and functions are used for this purposes.The file also contains the description of the badnet files (ie what disturbance it is creating and how it is solved)
 
+EOF EOF EOF
+
 
 ![img](CN.JPG)
